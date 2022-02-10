@@ -215,6 +215,4 @@ function newquote(){
 
     document.querySelector(".auteur").innerHTML = quotes.quotes[getal].author;
 
-
-    
 }
